@@ -17,3 +17,7 @@ maintained. It is an independent fan-created exercise and is not affiliated
 with or endorsed by Jerry Rice, the San Francisco 49ers, the NFL, or
 freeCodeCamp. External facts, images, and links remain attributable to their
 respective sources and may have changed since the page was created.
+
+## License
+
+The original HTML, CSS, and documentation authored by David E. Mevorah are available under the [MIT License](LICENSE). Names, trademarks, photographs, quotations, factual source material, and other third-party content are not covered by that license and remain the property of their respective owners.
